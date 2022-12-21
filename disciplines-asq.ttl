@@ -7,7 +7,7 @@
 spt:SceneProTaxonomie rdf:type  skos:ConceptScheme; 
   skos:prefLabel "Taxonomie de Scène Pro"@fr; 
   vann:example spt:Cirque; 
-  owl:versionInfo "v2.0.0". 
+  owl:versionInfo "v3.0.0". 
 spt:Cirque rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Cirque"@fr ; skos:inScheme spt:SceneProTaxonomie. 
 spt:Musique rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Musique"@fr ; skos:inScheme spt:SceneProTaxonomie. 
 spt:Danse rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Danse"@fr ; skos:inScheme spt:SceneProTaxonomie. 
