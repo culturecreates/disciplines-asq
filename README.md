@@ -7,7 +7,7 @@ https://observablehq.com/d/65a8499db70bd875
 This taxonomy can be loaded into a triple store and used as is. However, to make it more accessible, and dereferencable, it would be best to publish this taxonomy on an website. This would enable a URI like http://scenepro.ca/taxonomies/disciplines-asq#Jazz could be clicked to access documentation about it.
 
 
-## Minimal setup
+## Minimal Setup - Machine Only
 
 The minimal setup for machines to access this taxonomy on an Apache server at scenepro.com.
 
@@ -44,7 +44,7 @@ HTTP/1.x 200 OK
 Content-Type: text/turtle
 ```
 
-## Enhanced Setup
+## Enhanced Setup - Human and Machine
 
 The enhanced setup adds the ability for humans to read this taxonomy on an html page as well as machines.
 
