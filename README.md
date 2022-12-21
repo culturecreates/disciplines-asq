@@ -11,21 +11,21 @@ This taxonomy can be loaded into a triple store and used as is. However, to make
 
 The minimal setup for machines to access this taxonomy on an Apache server at scenepro.com.
 
-Place the `disciplines-asq.ttl` file in the `/apachedocumentroot/taxonomies/` directory.
+Place the `disciplines-asq.rdf` file in the `/apachedocumentroot/taxonomies/` directory.
 
 Add the following directives to the .htaccess file in the `/apachedocumentroot/taxonomies/` directory on the server:
 
 ```
-# Directive to ensure *.ttl files served as appropriate content type,
+# Directive to ensure *.rdf files served as appropriate content type,
 # if not present in main apache config
-AddType text/turtle .ttl
+AddType application/rdf+xml .rdf
 
 # Rewrite engine setup
 RewriteEngine On
 RewriteBase /taxonomies
 
-# Rewrite rule to serve Turtle content from the vocabulary URI
-RewriteRule ^disciplines-asq$ disciplines-asq.ttl
+# Rewrite rule to serve RDF content from the vocabulary URI
+RewriteRule ^disciplines-asq$ disciplines-asq.rdf
 ```
 
 ### Testing the Configuration
@@ -41,14 +41,14 @@ Host: scenepro.com
 Response header should contain the following fields:
 ```
 HTTP/1.x 200 OK
-Content-Type: text/turtle
+Content-Type: application/rdf+xml
 ```
 
 ## Enhanced Setup - Human and Machine
 
-The enhanced setup adds the ability for humans to read this taxonomy on an html page as well as machines.
+The enhanced setup adds the ability for humans to read this taxonomy on an html page as well as machines. It also adds the RDF Turtle format because its popularity.
 
-Place the `disciplines-asq.ttl` and `disciplines-asq.html` files in the `/apachedocumentroot/taxonomies/` directory.
+Place the `disciplines-asq.rdf`, `disciplines-asq.ttl` and `disciplines-asq.html` files in the `/apachedocumentroot/taxonomies/` directory.
 
 Add the following directives to the .htaccess file in the `/apachedocumentroot/taxonomies/` directory on the server:
 
@@ -56,15 +56,19 @@ Add the following directives to the .htaccess file in the `/apachedocumentroot/t
 # Turn off MultiViews
 Options -MultiViews
 
-# Directive to ensure *.turtle files served as appropriate content type,
+# Directive to ensure RDF files served as appropriate content type,
 # if not present in main apache config
+AddType application/rdf+xml .rdf
 AddType text/turtle .ttl
 
 # Rewrite engine setup
 RewriteEngine On
 RewriteBase /taxonomies
 
-# Rewrite rule to serve Turtle content from the vocabulary URI if requested
+# Rewrite rule to serve RDF content from the vocabulary URI if requested
+RewriteCond %{HTTP_ACCEPT} application/rdf+xml
+RewriteRule ^disciplines-asq$ disciplines-asq.rdf [R=303]
+
 RewriteCond %{HTTP_ACCEPT} text/turtle
 RewriteRule ^disciplines-asq$ disciplines-asq.ttl [R=303]
 
