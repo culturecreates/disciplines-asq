@@ -2,7 +2,7 @@
 @prefix vann: <http://purl.org/vocab/vann/> . 
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> . 
 @prefix owl: <http://www.w3.org/2002/07/owl#> . 
-@prefix spt: <http://www.scenepro.ca/taxonomie#> . 
+@prefix spt: <http://www.scenepro.ca/taxonomies/disciplines-asq#> . 
 
 spt:SceneProTaxonomie rdf:type  skos:ConceptScheme; 
   skos:prefLabel "Taxonomie de Scène Pro"@fr; 
