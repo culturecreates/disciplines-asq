@@ -3,6 +3,10 @@ Disciplines des arts de la scène au Québec based on the Scène Pro taxonomy.
 
 https://observablehq.com/d/65a8499db70bd875
 
+
+# Build
+This distribution files are located in `/dist` folder. The distribution files are generated from the Turtle file and ruby code in the `/src` folder.
+
 # Publish Guidelines
 This taxonomy can be loaded into a triple store and used as is. However, to make it more accessible, and dereferencable, it would be best to publish this taxonomy on the http://scenepro.ca website. This would enable a URI like http://scenepro.ca/taxonomies/disciplines-asq#Jazz could be clicked to access documentation about it.
 
@@ -11,7 +15,7 @@ This taxonomy can be loaded into a triple store and used as is. However, to make
 
 The minimal setup for machines to access this taxonomy on an Apache server at scenepro.com.
 
-Place the `disciplines-asq.rdf` file in the `/apachedocumentroot/taxonomies/` directory.
+Place the `dist/disciplines-asq.rdf` file in the `/apachedocumentroot/taxonomies/` directory.
 
 Add the following directives to the .htaccess file in the `/apachedocumentroot/taxonomies/` directory on the server:
 
@@ -48,7 +52,7 @@ Content-Type: application/rdf+xml
 
 The enhanced setup adds the ability for humans to read this taxonomy on an html page as well as machines. It also adds the RDF Turtle format because its popularity.
 
-Place the `disciplines-asq.rdf`, `disciplines-asq.ttl` and `disciplines-asq.html` files in the `/apachedocumentroot/taxonomies/` directory.
+Place the `dist/disciplines-asq.rdf`, `dist/disciplines-asq.ttl` and `dist/disciplines-asq.html` files in the `/apachedocumentroot/taxonomies/` directory.
 
 Add the following directives to the .htaccess file in the `/apachedocumentroot/taxonomies/` directory on the server:
 

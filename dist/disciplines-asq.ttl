@@ -1,0 +1,1105 @@
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Absurde> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Humour>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Absurde"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#AcidJazz> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Jazz>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Acid jazz"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Acrobatie> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Cirque>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Acrobatie"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Aerien> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Cirque>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Aérien"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#AfroCaribeenne> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#CaribeenneEtLatinoAmericaine>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Afro-caribéenne"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Anticipation> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Anticipation"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Arabe> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#MoyenOrient>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Arabe"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#ArtClownesque> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Cirque>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Art clownesque"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#ArtEquestre> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Cirque>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Art équestre"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Autre> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Africaine>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Autre"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#AvantGardeContemporaine> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#AvantGarde>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Contemporaine"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#AvantGardeElectroacoustique> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#AvantGarde>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Électroacoustique"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#AvantGardeExperimentale> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#AvantGarde>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Expérimentale"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#BBoyingOrBGirling> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Urbaine>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "B-boying / B-girling"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Bachata> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#CaribeenneEtLatinoAmericaine>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Bachata"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Balboa> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Sociale>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Balboa"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#BalletClassique> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Ballet>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Classique"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#BalletJazz> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Ballet>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Jazz"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Baroque> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Classique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Baroque"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#BeBop> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Jazz>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Be-bop"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Bhangra> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Asiatique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Bhangra"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Bharatanatyam> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Asiatique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Bharatanatyam"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#BigBand> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Jazz>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Big band"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Blues> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Sociale>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Blues"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Bollywood> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Asiatique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Bollywood"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#BossaNova> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Jazz>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Bossa nova"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Bouddhique> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Religieuse>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "bouddhique"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Burlesque> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Humour>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Burlesque"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Butoh> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Asiatique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Butoh"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Cabaret> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Variete>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Cabaret"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Capoeira> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#CaribeenneEtLatinoAmericaine>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Capoeira"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Carree> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#CountryEtCanadienne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Carrée"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#CeiliIrlandaise> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Europeenne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Céilí Irlandaise"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#CeilidhEcossaise> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Europeenne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Cèilidh écossaise"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#ChaChaCha> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Sociale>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Cha-cha-cha"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#ChantChretien> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Religieuse>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Chant chrétien"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Charleston> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Sociale>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Charleston"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Claquettes> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#ContemporaineEtModerne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Claquettes"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Clogging> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#CountryEtCanadienne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Clogging"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Comedie> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Comédie"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#ComedieDramatique> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Comédie dramatique"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#CommediaDellArte> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Commedia dell' arte"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#ContactImprovisation> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#ContemporaineEtModerne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Contact-improvisation"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Conte> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#ArtDeLaParole>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Conte"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Contemporain> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Ballet>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Contemporain"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Contemporaine> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#ContemporaineEtModerne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Contemporaine"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#ContemporaineEtModerneJazz> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#ContemporaineEtModerne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Jazz"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Contra> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Ancienne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Contra"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#CoolJazz> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Jazz>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Cool jazz"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Country> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Country"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#CountryAnglaise> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Ancienne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Country-anglaise"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#CountryEcossaise> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Europeenne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Country écossaise"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#CountryWestern> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#CountryEtCanadienne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Country-western"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Creation> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Création"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Cri> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Autochtone>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Cri"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#DAvantGarde> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "D'avant-garde"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#DEuropeDeLEst> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Europeenne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "D'Europe de l'Est"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#DObjets> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "D'objets"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#DOmbres> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "D'ombres"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Dance> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Dance"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Dancehall> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Urbaine>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Dancehall"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#DanseEnLigne> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#CountryEtCanadienne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Danse en ligne"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#DanseSportive> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Sociale>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Danse sportive"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#DeFilm> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "De film"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#DeJeuxVideos> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "De jeux vidéos"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#DeLaRenaissance> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Classique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "De la Renaissance"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#DeSalon> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Sociale>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "De salon"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#DesBalkans> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Europeenne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Des Balkans"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Divers> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Urbaine>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Divers"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Dixieland> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Jazz>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Dixieland"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Documentaire> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Documentaire"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Drame> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Drame"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#DuVentre> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#MoyenOrient>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Du ventre"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Electroacoustique> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Électroacoustique"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Electronique> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Électronique"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#EnCercle> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Spirituelle>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "En cercle"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Equilibre> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Cirque>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Équilibre"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Experimental> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Expérimental"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Experimentale> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#ContemporaineEtModerne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Expérimentale"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Extatique> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Spirituelle>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Extatique"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Flamenco> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Europeenne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Flamenco"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Folk> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Folk"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#FolkloriqueInternationale> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Europeenne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Folklorique internationale"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Foxtrot> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Sociale>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Foxtrot"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#FreeJazz> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Jazz>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Free jazz"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Funk> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Jazz>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Funk"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Futuriste> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Futuriste"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#GigueCanadienne> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#CountryEtCanadienne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Gigue canadienne"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#GigueIrlandaise> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Europeenne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Gigue irlandaise"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#GigueQuebecoise> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#CountryEtCanadienne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Gigue québécoise"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Gospel> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Religieuse>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Gospel"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Grecque> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Europeenne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Grecque"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Gumboot> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Africaine>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Gumboot"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#HabiletesDiversifiees> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#ContemporaineEtModerne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Habiletés diversifiées"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#HardBop> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Jazz>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Hard bop"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Highland> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Europeenne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Highland"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Hiphop> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Urbaine>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Hip hop"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Hongroise> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Europeenne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Hongroise"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#House> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Urbaine>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "House"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Hustle> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Sociale>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Hustle"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Imitation> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Humour>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Imitation"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Indie> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Indie"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Inuit> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Autochtone>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Inuit"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Islamique> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Religieuse>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "islamique"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Israelienne> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#MoyenOrient>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Israélienne"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#JazzFusion> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Jazz>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Jazz fusion"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#JazzModal> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Jazz>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Jazz modal"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Jive> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Sociale>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Jive"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Juive> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Religieuse>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "juive"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Kathak> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Asiatique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Kathak"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Kizomba> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Africaine>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Kizomba"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Latine> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#CaribeenneEtLatinoAmericaine>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Latine"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Latino> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Latino"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#LecturePublique> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#ArtDeLaParole>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Lecture publique"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#LindyHop> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Sociale>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Lindy Hop"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Locking> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Urbaine>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Locking"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Lyrique> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#ContemporaineEtModerne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Lyrique"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Magie> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Variete>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Magie"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Manipulation> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Cirque>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Manipulation"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Manouche> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Jazz>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Manouche"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Marionnettes> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Marionnettes"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#MarionnettesGeantes> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Marionnettes géantes"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Masque> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Masqué"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Medievale> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Classique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Médiévale"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Mentalisme> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Variete>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Mentalisme"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Merengue> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#CaribeenneEtLatinoAmericaine>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Merengue"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Metal> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Métal"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Metis> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Autochtone>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Métis"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Mime> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Mime"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Moderne> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#ContemporaineEtModerne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Moderne"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Monologue> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Monologue"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#MorrisAnglaise> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Europeenne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Morris anglaise"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#MusicHall> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Variete>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Music-hall"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Musical> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Musical"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#MusiqueBlues> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Blues"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#MusiqueContemporaine> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Contemporaine"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#MusiqueExperimentale> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Expérimentale"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#MusiqueHipHop> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Hip-hop"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#NeoBop> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Jazz>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Néo-bop"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Noir> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Humour>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Noir"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Observation> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Humour>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Observation"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#OneLiner> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Humour>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "One liner"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Opera> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Opéra"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Operette> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Opérette"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Personnages> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Humour>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Personnages"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Poesie> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#ArtDeLaParole>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Poésie"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#PolitiqueEtSocial> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Humour>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Politique et social"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Polka> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Sociale>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Polka"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Polonaise> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Europeenne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Polonaise"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#PopRock> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Pop-rock"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Popping> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Urbaine>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Popping"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Populaire> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Populaire"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Postromantique> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Classique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Postromantique"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#PowWow> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Autochtone>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Pow-wow"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Punk> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Punk"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#QuatriemeMur> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Humour>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Quatrième mur"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#RB> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "R&B"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Ragtime> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Jazz>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Ragtime"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Rap> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Rap"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#RaqsSharqi> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#MoyenOrient>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Raqs Sharqi"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Reggae> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Reggae"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Reggaeton> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Urbaine>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Reggaeton"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Repertoire> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Répertoire"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#RhythmNBlues> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Jazz>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Rhythm'n'blues"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Rock> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Rock"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#RockAndRoll> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Sociale>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Rock and roll"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Romantique> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Classique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Romantique"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Ronde> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#CountryEtCanadienne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Ronde"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Rumba> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Sociale>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Rumba"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#SacreeEnCercle> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Spirituelle>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Sacrée en cercle"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Salsa> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#CaribeenneEtLatinoAmericaine>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Salsa"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Samba> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#CaribeenneEtLatinoAmericaine>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Samba"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Scandinave> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Europeenne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Scandinave"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#SetIrlandais> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Europeenne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Set irlandais"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Shintoiste> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Religieuse>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "shintoïste"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Sikhe> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Religieuse>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "sikhe"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Sketch> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Humour>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Sketch"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Slam> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#ArtDeLaParole>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Slam"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#SmoothJazz> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Jazz>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Smooth jazz"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Soul> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Soul"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#StandUp> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Humour>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Stand-up"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Swing> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Jazz>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Swing"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Tango> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Sociale>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Tango"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#TheatreCabaret> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Cabaret"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#TheatreLecturePublique> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Lecture publique"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#TraditionnelleQuebecoise> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#CountryEtCanadienne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Traditionnelle québécoise"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#TraditionsDuMonde> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Traditions du monde"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Trap> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Trap"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Turque> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#MoyenOrient>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Turque"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Ukrainienne> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Europeenne>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Ukrainienne"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Valse> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Sociale>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Valse"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Vaudeville> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Theatre>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Vaudeville"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Ventriloquie> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Variete>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Ventriloquie"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Waacking> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Urbaine>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Waacking"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#WestCoastSwing> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Sociale>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "West Coast Swing"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Western> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Western"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Ancienne> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Danse>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Ancienne"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Africaine> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Danse>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Danse Africaine"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#AvantGarde> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Avant-Garde"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Ballet> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Danse>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Ballet"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Spirituelle> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Danse>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Spirituelle"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#ArtDeLaParole> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Art de la parole"@fr;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie> .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Autochtone> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Danse>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Autochtone"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Asiatique> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Danse>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Asiatique"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Classique> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Classique"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#MoyenOrient> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Danse>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Moyen-Orient"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Variete> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Variété"@fr;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie> .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#CaribeenneEtLatinoAmericaine> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Danse>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Caribéenne et latino-américaine"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Cirque> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Cirque"@fr;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie> .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Religieuse> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Religieuse"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#ContemporaineEtModerne> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Danse>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Contemporaine et moderne"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#CountryEtCanadienne> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Danse>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Country et canadienne"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Urbaine> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Danse>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Urbaine"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Humour> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Humour"@fr;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie> .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Danse> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Danse"@fr;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie> .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Europeenne> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Danse>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Européenne"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Sociale> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Danse>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Sociale"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Jazz> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/disciplines-asq#Musique>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Jazz"@fr .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Theatre> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Théâtre"@fr;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie> .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#Musique> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Musique"@fr;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie> .
+
+<http://scenepro.ca/taxonomies/disciplines-asq#SceneProTaxonomie> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+  <http://purl.org/vocab/vann/example> <http://scenepro.ca/taxonomies/disciplines-asq#Cirque>;
+  <http://www.w3.org/2002/07/owl#versionInfo> "v3.0.0";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Taxonomie de Scène Pro"@fr .
