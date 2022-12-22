@@ -43,7 +43,7 @@ title = graph.query(RDF::Query::Pattern.new(spt.SceneProTaxonomie, skos.prefLabe
 version = graph.query(RDF::Query::Pattern.new(spt.SceneProTaxonomie, OWL.versionInfo, :o))&.first&.object
 
 # HTML template start
-html_ouput = "<!DOCTYPE html><html><body>"
+html_ouput = "<!DOCTYPE html><html><head>#{title}</head><body>"
 html_ouput += "<h1>#{title} #{version}</h1>"
 html_ouput += "<h4>Comment on Github: <a href='https://github.com/culturecreates/disciplines-asq'>disciplines-asq</a></h4>"
 
