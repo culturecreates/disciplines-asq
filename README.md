@@ -8,7 +8,7 @@ https://observablehq.com/d/65a8499db70bd875
 This distribution files are located in `/dist` folder. The distribution files are generated from the Turtle file and ruby code in the `/src` folder.
 
 # Publish Guidelines
-This taxonomy can be loaded into a triple store and used as is. However, to make it more accessible, and dereferencable, it would be best to publish this taxonomy on the http://scenepro.ca website. This would enable a URI like http://scenepro.ca/taxonomies/disciplines-asq#Jazz could be clicked to access documentation about it.
+This taxonomy can be loaded into a triple store and used as is. However, to make it more accessible, and dereferencable, it would be best to publish this taxonomy on the http://scenepro.ca website. This would enable a URI like http://scenepro.ca/taxonomies/disciplines-asq#Jazz to be clickable to access documentation about it.
 
 
 ## Minimal Setup - Machine Only
