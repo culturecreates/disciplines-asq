@@ -87,3 +87,5 @@ RewriteRule ^disciplines-asq$ disciplines-asq.html [R=303]
 http://harth.org/andreas/2016/pedantic-web/
 
 https://www.w3.org/TR/swbp-vocab-pub/
+
+https://httpd.apache.org/docs/current/mod/mod_rewrite.html
