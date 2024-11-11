@@ -14,7 +14,7 @@ This taxonomy can be loaded into a triple store and used as is. However, to make
 
 ## Minimal Setup - Machine Only
 
-The minimal setup for machines to access this taxonomy on an Apache server at scenepro.com.
+The minimal setup for machines to access this taxonomy on an Apache server at scenepro.ca.
 
 Place the `dist/disciplines-asq.rdf` file in the `/apachedocumentroot/taxonomies/` directory.
 
@@ -41,7 +41,7 @@ Dereference the vocabulary URI
 
 ```
 GET /taxonomies/disciplines-asq HTTP/1.1
-Host: scenepro.com
+Host: scenepro.ca
 ```
 Response header should contain the following fields:
 ```
