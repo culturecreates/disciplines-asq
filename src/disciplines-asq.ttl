@@ -2,12 +2,31 @@
 @prefix vann: <http://purl.org/vocab/vann/> . 
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> . 
 @prefix owl: <http://www.w3.org/2002/07/owl#> . 
-@prefix spt: <http://scenepro.ca/taxonomies/disciplines-asq#> . 
+@prefix spt: <http://scenepro.ca/taxonomies/Disciplines-asq#> . 
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
 
-spt:SceneProTaxonomie rdf:type  skos:ConceptScheme; 
-  skos:prefLabel "Taxonomie de Scène Pro"@fr; 
+spt: rdf:type  skos:ConceptScheme; 
+  skos:prefLabel "Disciplines artistiques"@fr; 
+  owl:versionInfo "3.1.0";
+  dct:created "2022-11-15"^^xsd:date ;
+  dct:modified "2025-04-13"^^xsd:date ;
+  dct:description "Taxonomie de Scène Pro pour la classification des disciplines artistiques."@fr ;
+  foaf:homepage <https://github.com/culturecreates/disciplines-asq> ;
+  vann:changes  <https://github.com/culturecreates/disciplines-asq/commits/master/src/disciplines-asq.ttl> ; 
+  vann:preferredNamespacePrefix "spt" ;
+  vann:preferredNamespaceUri spt: ;
   vann:example spt:Cirque; 
-  owl:versionInfo "v3.0.0". 
+  prov:wasGeneratedBy [
+    rdf:type prov:Activity;
+    prov:agent <http://www.wikidata.org/entity/Q111159860> ;
+    prov:endedAtTime "2025-04-13T00:00:00Z";
+    prov:used <https://docs.google.com/spreadsheets/d/1Qw6YF3GE5w5VgItOrMkRumgx_oqgXujO8UsQlv0vhMk>;
+    dct:description "This version 3.1.0 adds the concept 'spt:Conférence' to the taxonomy." ;
+  ] .
+spt:Conférence rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Conférence"@fr ; skos:inScheme spt:SceneProTaxonomie.
 spt:Cirque rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Cirque"@fr ; skos:inScheme spt:SceneProTaxonomie. 
 spt:Musique rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Musique"@fr ; skos:inScheme spt:SceneProTaxonomie. 
 spt:Danse rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Danse"@fr ; skos:inScheme spt:SceneProTaxonomie. 

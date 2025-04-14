@@ -13,6 +13,13 @@ RDF::RDFXML::Writer.open('../dist/disciplines-asq.rdf') do |writer|
 end
 
 ##########################################
+#  Add .jsonld file to distribution folder  #
+##########################################
+JSON::LD::Writer.open('../dist/disciplines-asq.jsonld') do |writer|
+  writer << graph
+end
+
+##########################################
 #  Add .ttl file to distribution folder  #
 ##########################################
 RDF::Turtle::Writer.open('../dist/disciplines-asq.ttl') do |writer|
