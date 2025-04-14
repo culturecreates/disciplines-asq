@@ -3,1139 +3,1139 @@
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Absurde">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Humour">
-        <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
         <ns0:prefLabel xml:lang="fr">Humour</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
         <ns0:definition xml:lang="fr">Un art qui utilise le rire et la comédie pour divertir.</ns0:definition>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Absurde</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#AcidJazz">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Jazz">
         <ns0:broader>
           <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Musique">
-            <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+            <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
             <ns0:prefLabel xml:lang="fr">Musique</ns0:prefLabel>
-            <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+            <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
             <ns0:definition xml:lang="fr">Un art qui utilise le son et le rythme pour créer des compositions musicales.</ns0:definition>
           </ns0:Concept>
         </ns0:broader>
         <ns0:prefLabel xml:lang="fr">Jazz</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Acid jazz</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Acrobatie">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Cirque">
-        <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
         <ns0:prefLabel xml:lang="fr">Cirque</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
         <ns0:definition xml:lang="fr">Un spectacle qui combine des performances acrobatiques, de jonglerie, d'équilibre et d'autres arts du cirque.</ns0:definition>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Acrobatie</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Aerien">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Cirque"/>
     <ns0:prefLabel xml:lang="fr">Aérien</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#AfroCaribeenne">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#CaribeenneEtLatinoAmericaine">
         <ns0:broader>
           <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Danse">
-            <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+            <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
             <ns0:prefLabel xml:lang="fr">Danse</ns0:prefLabel>
-            <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+            <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
             <ns0:definition xml:lang="fr">Un art du mouvement du corps, souvent en rythme avec la musique.</ns0:definition>
           </ns0:Concept>
         </ns0:broader>
         <ns0:prefLabel xml:lang="fr">Caribéenne et latino-américaine</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Afro-caribéenne</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Anticipation">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre">
-        <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
         <ns0:prefLabel xml:lang="fr">Théâtre</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
         <ns0:definition xml:lang="fr">Un art de la représentation dramatique, souvent sur scène, impliquant des acteurs et un public.</ns0:definition>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Anticipation</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Arabe">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#MoyenOrient">
         <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Danse"/>
         <ns0:prefLabel xml:lang="fr">Moyen-Orient</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Arabe</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#ArtClownesque">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Cirque"/>
     <ns0:prefLabel xml:lang="fr">Art clownesque</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#ArtEquestre">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Cirque"/>
     <ns0:prefLabel xml:lang="fr">Art équestre</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Autre">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Africaine">
         <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Danse"/>
         <ns0:prefLabel xml:lang="fr">Danse Africaine</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Autre</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#AvantGardeContemporaine">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#AvantGarde">
         <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
         <ns0:prefLabel xml:lang="fr">Avant-Garde</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Contemporaine</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#AvantGardeElectroacoustique">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#AvantGarde"/>
     <ns0:prefLabel xml:lang="fr">Électroacoustique</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#AvantGardeExperimentale">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#AvantGarde"/>
     <ns0:prefLabel xml:lang="fr">Expérimentale</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#BBoyingOrBGirling">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Urbaine">
         <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Danse"/>
         <ns0:prefLabel xml:lang="fr">Urbaine</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">B-boying / B-girling</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Bachata">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#CaribeenneEtLatinoAmericaine"/>
     <ns0:prefLabel xml:lang="fr">Bachata</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Balboa">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Sociale">
         <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Danse"/>
         <ns0:prefLabel xml:lang="fr">Sociale</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Balboa</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#BalletClassique">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Ballet">
         <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Danse"/>
         <ns0:prefLabel xml:lang="fr">Ballet</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Classique</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#BalletJazz">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Ballet"/>
     <ns0:prefLabel xml:lang="fr">Jazz</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Baroque">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Classique">
         <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
         <ns0:prefLabel xml:lang="fr">Classique</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Baroque</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#BeBop">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Jazz"/>
     <ns0:prefLabel xml:lang="fr">Be-bop</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Bhangra">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Asiatique">
         <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Danse"/>
         <ns0:prefLabel xml:lang="fr">Asiatique</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Bhangra</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Bharatanatyam">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Asiatique"/>
     <ns0:prefLabel xml:lang="fr">Bharatanatyam</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#BigBand">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Jazz"/>
     <ns0:prefLabel xml:lang="fr">Big band</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Blues">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Sociale"/>
     <ns0:prefLabel xml:lang="fr">Blues</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Bollywood">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Asiatique"/>
     <ns0:prefLabel xml:lang="fr">Bollywood</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#BossaNova">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Jazz"/>
     <ns0:prefLabel xml:lang="fr">Bossa nova</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Bouddhique">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Religieuse">
         <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
         <ns0:prefLabel xml:lang="fr">Religieuse</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">bouddhique</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Burlesque">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Humour"/>
     <ns0:prefLabel xml:lang="fr">Burlesque</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Butoh">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Asiatique"/>
     <ns0:prefLabel xml:lang="fr">Butoh</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Cabaret">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Variete">
-        <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
         <ns0:prefLabel xml:lang="fr">Variété</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
         <ns0:definition xml:lang="fr">Un spectacle qui combine plusieurs formes de divertissement, y compris la musique, la danse et le théâtre.</ns0:definition>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Cabaret</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Capoeira">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#CaribeenneEtLatinoAmericaine"/>
     <ns0:prefLabel xml:lang="fr">Capoeira</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Carree">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#CountryEtCanadienne">
         <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Danse"/>
         <ns0:prefLabel xml:lang="fr">Country et canadienne</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Carrée</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#CeiliIrlandaise">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Europeenne">
         <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Danse"/>
         <ns0:prefLabel xml:lang="fr">Européenne</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Céilí Irlandaise</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#CeilidhEcossaise">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Europeenne"/>
     <ns0:prefLabel xml:lang="fr">Cèilidh écossaise</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#ChaChaCha">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Sociale"/>
     <ns0:prefLabel xml:lang="fr">Cha-cha-cha</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#ChantChretien">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Religieuse"/>
     <ns0:prefLabel xml:lang="fr">Chant chrétien</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Charleston">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Sociale"/>
     <ns0:prefLabel xml:lang="fr">Charleston</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Claquettes">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#ContemporaineEtModerne">
         <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Danse"/>
         <ns0:prefLabel xml:lang="fr">Contemporaine et moderne</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Claquettes</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Clogging">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#CountryEtCanadienne"/>
     <ns0:prefLabel xml:lang="fr">Clogging</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Comedie">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre"/>
     <ns0:prefLabel xml:lang="fr">Comédie</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#ComedieDramatique">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre"/>
     <ns0:prefLabel xml:lang="fr">Comédie dramatique</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#CommediaDellArte">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre"/>
     <ns0:prefLabel xml:lang="fr">Commedia dell' arte</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Conférence">
-    <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
     <ns0:prefLabel xml:lang="fr">Conférence</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
     <ns0:definition xml:lang="fr">Une présentation orale destinée à transmettre des connaissances ou des idées.</ns0:definition>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#ContactImprovisation">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#ContemporaineEtModerne"/>
     <ns0:prefLabel xml:lang="fr">Contact-improvisation</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Conte">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#ArtDeLaParole">
-        <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
         <ns0:prefLabel xml:lang="fr">Art de la parole</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
         <ns0:definition xml:lang="fr">Un art qui utilise la parole et le langage pour communiquer des idées, des émotions ou des histoires.</ns0:definition>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Conte</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Contemporain">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Ballet"/>
     <ns0:prefLabel xml:lang="fr">Contemporain</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Contemporaine">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#ContemporaineEtModerne"/>
     <ns0:prefLabel xml:lang="fr">Contemporaine</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#ContemporaineEtModerneJazz">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#ContemporaineEtModerne"/>
     <ns0:prefLabel xml:lang="fr">Jazz</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Contra">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Ancienne">
         <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Danse"/>
         <ns0:prefLabel xml:lang="fr">Ancienne</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Contra</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#CoolJazz">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Jazz"/>
     <ns0:prefLabel xml:lang="fr">Cool jazz</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Country">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Country</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#CountryAnglaise">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Ancienne"/>
     <ns0:prefLabel xml:lang="fr">Country-anglaise</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#CountryEcossaise">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Europeenne"/>
     <ns0:prefLabel xml:lang="fr">Country écossaise</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#CountryWestern">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#CountryEtCanadienne"/>
     <ns0:prefLabel xml:lang="fr">Country-western</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Creation">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre"/>
     <ns0:prefLabel xml:lang="fr">Création</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Cri">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Autochtone">
         <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Danse"/>
         <ns0:prefLabel xml:lang="fr">Autochtone</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Cri</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#DAvantGarde">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre"/>
     <ns0:prefLabel xml:lang="fr">D'avant-garde</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#DEuropeDeLEst">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Europeenne"/>
     <ns0:prefLabel xml:lang="fr">D'Europe de l'Est</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#DObjets">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre"/>
     <ns0:prefLabel xml:lang="fr">D'objets</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#DOmbres">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre"/>
     <ns0:prefLabel xml:lang="fr">D'ombres</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Dance">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Dance</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Dancehall">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Urbaine"/>
     <ns0:prefLabel xml:lang="fr">Dancehall</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#DanseEnLigne">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#CountryEtCanadienne"/>
     <ns0:prefLabel xml:lang="fr">Danse en ligne</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#DanseSportive">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Sociale"/>
     <ns0:prefLabel xml:lang="fr">Danse sportive</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#DeFilm">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">De film</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#DeJeuxVideos">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">De jeux vidéos</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#DeLaRenaissance">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Classique"/>
     <ns0:prefLabel xml:lang="fr">De la Renaissance</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#DeSalon">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Sociale"/>
     <ns0:prefLabel xml:lang="fr">De salon</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#DesBalkans">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Europeenne"/>
     <ns0:prefLabel xml:lang="fr">Des Balkans</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Divers">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Urbaine"/>
     <ns0:prefLabel xml:lang="fr">Divers</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Dixieland">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Jazz"/>
     <ns0:prefLabel xml:lang="fr">Dixieland</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Documentaire">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre"/>
     <ns0:prefLabel xml:lang="fr">Documentaire</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Drame">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre"/>
     <ns0:prefLabel xml:lang="fr">Drame</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#DuVentre">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#MoyenOrient"/>
     <ns0:prefLabel xml:lang="fr">Du ventre</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Electroacoustique">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Électroacoustique</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Electronique">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Électronique</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#EnCercle">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Spirituelle">
         <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Danse"/>
         <ns0:prefLabel xml:lang="fr">Spirituelle</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">En cercle</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Equilibre">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Cirque"/>
     <ns0:prefLabel xml:lang="fr">Équilibre</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Experimental">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre"/>
     <ns0:prefLabel xml:lang="fr">Expérimental</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Experimentale">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#ContemporaineEtModerne"/>
     <ns0:prefLabel xml:lang="fr">Expérimentale</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Extatique">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Spirituelle"/>
     <ns0:prefLabel xml:lang="fr">Extatique</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Flamenco">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Europeenne"/>
     <ns0:prefLabel xml:lang="fr">Flamenco</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Folk">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Folk</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#FolkloriqueInternationale">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Europeenne"/>
     <ns0:prefLabel xml:lang="fr">Folklorique internationale</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Foxtrot">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Sociale"/>
     <ns0:prefLabel xml:lang="fr">Foxtrot</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#FreeJazz">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Jazz"/>
     <ns0:prefLabel xml:lang="fr">Free jazz</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Funk">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Jazz"/>
     <ns0:prefLabel xml:lang="fr">Funk</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Futuriste">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre"/>
     <ns0:prefLabel xml:lang="fr">Futuriste</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#GigueCanadienne">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#CountryEtCanadienne"/>
     <ns0:prefLabel xml:lang="fr">Gigue canadienne</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#GigueIrlandaise">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Europeenne"/>
     <ns0:prefLabel xml:lang="fr">Gigue irlandaise</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#GigueQuebecoise">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#CountryEtCanadienne"/>
     <ns0:prefLabel xml:lang="fr">Gigue québécoise</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Gospel">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Religieuse"/>
     <ns0:prefLabel xml:lang="fr">Gospel</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Grecque">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Europeenne"/>
     <ns0:prefLabel xml:lang="fr">Grecque</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Gumboot">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Africaine"/>
     <ns0:prefLabel xml:lang="fr">Gumboot</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#HabiletesDiversifiees">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#ContemporaineEtModerne"/>
     <ns0:prefLabel xml:lang="fr">Habiletés diversifiées</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#HardBop">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Jazz"/>
     <ns0:prefLabel xml:lang="fr">Hard bop</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Highland">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Europeenne"/>
     <ns0:prefLabel xml:lang="fr">Highland</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Hiphop">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Urbaine"/>
     <ns0:prefLabel xml:lang="fr">Hip hop</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Hongroise">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Europeenne"/>
     <ns0:prefLabel xml:lang="fr">Hongroise</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#House">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Urbaine"/>
     <ns0:prefLabel xml:lang="fr">House</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Hustle">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Sociale"/>
     <ns0:prefLabel xml:lang="fr">Hustle</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Imitation">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Humour"/>
     <ns0:prefLabel xml:lang="fr">Imitation</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Indie">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Indie</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Inuit">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Autochtone"/>
     <ns0:prefLabel xml:lang="fr">Inuit</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Islamique">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Religieuse"/>
     <ns0:prefLabel xml:lang="fr">islamique</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Israelienne">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#MoyenOrient"/>
     <ns0:prefLabel xml:lang="fr">Israélienne</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#JazzFusion">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Jazz"/>
     <ns0:prefLabel xml:lang="fr">Jazz fusion</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#JazzModal">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Jazz"/>
     <ns0:prefLabel xml:lang="fr">Jazz modal</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Jive">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Sociale"/>
     <ns0:prefLabel xml:lang="fr">Jive</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Juive">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Religieuse"/>
     <ns0:prefLabel xml:lang="fr">juive</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Kathak">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Asiatique"/>
     <ns0:prefLabel xml:lang="fr">Kathak</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Kizomba">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Africaine"/>
     <ns0:prefLabel xml:lang="fr">Kizomba</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Latine">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#CaribeenneEtLatinoAmericaine"/>
     <ns0:prefLabel xml:lang="fr">Latine</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Latino">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Latino</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#LecturePublique">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#ArtDeLaParole"/>
     <ns0:prefLabel xml:lang="fr">Lecture publique</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#LindyHop">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Sociale"/>
     <ns0:prefLabel xml:lang="fr">Lindy Hop</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Locking">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Urbaine"/>
     <ns0:prefLabel xml:lang="fr">Locking</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Lyrique">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#ContemporaineEtModerne"/>
     <ns0:prefLabel xml:lang="fr">Lyrique</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Magie">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Variete"/>
     <ns0:prefLabel xml:lang="fr">Magie</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Manipulation">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Cirque"/>
     <ns0:prefLabel xml:lang="fr">Manipulation</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Manouche">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Jazz"/>
     <ns0:prefLabel xml:lang="fr">Manouche</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Marionnettes">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre"/>
     <ns0:prefLabel xml:lang="fr">Marionnettes</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#MarionnettesGeantes">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre"/>
     <ns0:prefLabel xml:lang="fr">Marionnettes géantes</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Masque">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre"/>
     <ns0:prefLabel xml:lang="fr">Masqué</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Medievale">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Classique"/>
     <ns0:prefLabel xml:lang="fr">Médiévale</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Mentalisme">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Variete"/>
     <ns0:prefLabel xml:lang="fr">Mentalisme</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Merengue">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#CaribeenneEtLatinoAmericaine"/>
     <ns0:prefLabel xml:lang="fr">Merengue</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Metal">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Métal</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Metis">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Autochtone"/>
     <ns0:prefLabel xml:lang="fr">Métis</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Mime">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre"/>
     <ns0:prefLabel xml:lang="fr">Mime</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Moderne">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#ContemporaineEtModerne"/>
     <ns0:prefLabel xml:lang="fr">Moderne</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Monologue">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre"/>
     <ns0:prefLabel xml:lang="fr">Monologue</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#MorrisAnglaise">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Europeenne"/>
     <ns0:prefLabel xml:lang="fr">Morris anglaise</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#MusicHall">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Variete"/>
     <ns0:prefLabel xml:lang="fr">Music-hall</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Musical">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre"/>
     <ns0:prefLabel xml:lang="fr">Musical</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#MusiqueBlues">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Blues</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#MusiqueContemporaine">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Contemporaine</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#MusiqueExperimentale">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Expérimentale</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#MusiqueHipHop">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Hip-hop</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#NeoBop">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Jazz"/>
     <ns0:prefLabel xml:lang="fr">Néo-bop</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Noir">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Humour"/>
     <ns0:prefLabel xml:lang="fr">Noir</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Observation">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Humour"/>
     <ns0:prefLabel xml:lang="fr">Observation</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#OneLiner">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Humour"/>
     <ns0:prefLabel xml:lang="fr">One liner</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Opera">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Opéra</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Operette">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Opérette</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Personnages">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Humour"/>
     <ns0:prefLabel xml:lang="fr">Personnages</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Poesie">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#ArtDeLaParole"/>
     <ns0:prefLabel xml:lang="fr">Poésie</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#PolitiqueEtSocial">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Humour"/>
     <ns0:prefLabel xml:lang="fr">Politique et social</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Polka">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Sociale"/>
     <ns0:prefLabel xml:lang="fr">Polka</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Polonaise">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Europeenne"/>
     <ns0:prefLabel xml:lang="fr">Polonaise</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#PopRock">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Pop-rock</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Popping">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Urbaine"/>
     <ns0:prefLabel xml:lang="fr">Popping</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Populaire">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Populaire</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Postromantique">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Classique"/>
     <ns0:prefLabel xml:lang="fr">Postromantique</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#PowWow">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Autochtone"/>
     <ns0:prefLabel xml:lang="fr">Pow-wow</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Punk">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Punk</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#QuatriemeMur">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Humour"/>
     <ns0:prefLabel xml:lang="fr">Quatrième mur</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#RB">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">R&amp;B</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Ragtime">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Jazz"/>
     <ns0:prefLabel xml:lang="fr">Ragtime</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Rap">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Rap</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#RaqsSharqi">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#MoyenOrient"/>
     <ns0:prefLabel xml:lang="fr">Raqs Sharqi</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Reggae">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Reggae</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Reggaeton">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Urbaine"/>
     <ns0:prefLabel xml:lang="fr">Reggaeton</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Repertoire">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre"/>
     <ns0:prefLabel xml:lang="fr">Répertoire</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#RhythmNBlues">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Jazz"/>
     <ns0:prefLabel xml:lang="fr">Rhythm'n'blues</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Rock">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Rock</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#RockAndRoll">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Sociale"/>
     <ns0:prefLabel xml:lang="fr">Rock and roll</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Romantique">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Classique"/>
     <ns0:prefLabel xml:lang="fr">Romantique</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Ronde">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#CountryEtCanadienne"/>
     <ns0:prefLabel xml:lang="fr">Ronde</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Rumba">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Sociale"/>
     <ns0:prefLabel xml:lang="fr">Rumba</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#SacreeEnCercle">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Spirituelle"/>
     <ns0:prefLabel xml:lang="fr">Sacrée en cercle</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Salsa">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#CaribeenneEtLatinoAmericaine"/>
     <ns0:prefLabel xml:lang="fr">Salsa</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Samba">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#CaribeenneEtLatinoAmericaine"/>
     <ns0:prefLabel xml:lang="fr">Samba</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Scandinave">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Europeenne"/>
     <ns0:prefLabel xml:lang="fr">Scandinave</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#SetIrlandais">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Europeenne"/>
     <ns0:prefLabel xml:lang="fr">Set irlandais</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Shintoiste">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Religieuse"/>
     <ns0:prefLabel xml:lang="fr">shintoïste</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Sikhe">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Religieuse"/>
     <ns0:prefLabel xml:lang="fr">sikhe</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Sketch">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Humour"/>
     <ns0:prefLabel xml:lang="fr">Sketch</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Slam">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#ArtDeLaParole"/>
     <ns0:prefLabel xml:lang="fr">Slam</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#SmoothJazz">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Jazz"/>
     <ns0:prefLabel xml:lang="fr">Smooth jazz</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Soul">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Soul</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#StandUp">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Humour"/>
     <ns0:prefLabel xml:lang="fr">Stand-up</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Swing">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Jazz"/>
     <ns0:prefLabel xml:lang="fr">Swing</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Tango">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Sociale"/>
     <ns0:prefLabel xml:lang="fr">Tango</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#TheatreCabaret">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre"/>
     <ns0:prefLabel xml:lang="fr">Cabaret</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#TheatreLecturePublique">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre"/>
     <ns0:prefLabel xml:lang="fr">Lecture publique</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#TraditionnelleQuebecoise">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#CountryEtCanadienne"/>
     <ns0:prefLabel xml:lang="fr">Traditionnelle québécoise</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#TraditionsDuMonde">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Traditions du monde</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Trap">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Trap</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Turque">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#MoyenOrient"/>
     <ns0:prefLabel xml:lang="fr">Turque</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Ukrainienne">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Europeenne"/>
     <ns0:prefLabel xml:lang="fr">Ukrainienne</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Valse">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Sociale"/>
     <ns0:prefLabel xml:lang="fr">Valse</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Vaudeville">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Theatre"/>
     <ns0:prefLabel xml:lang="fr">Vaudeville</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Ventriloquie">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Variete"/>
     <ns0:prefLabel xml:lang="fr">Ventriloquie</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Waacking">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Urbaine"/>
     <ns0:prefLabel xml:lang="fr">Waacking</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#WestCoastSwing">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Sociale"/>
     <ns0:prefLabel xml:lang="fr">West Coast Swing</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Western">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Musique"/>
     <ns0:prefLabel xml:lang="fr">Western</ns0:prefLabel>
-    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:ConceptScheme rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#">
     <ns0:prefLabel xml:lang="fr">Disciplines artistiques</ns0:prefLabel>
