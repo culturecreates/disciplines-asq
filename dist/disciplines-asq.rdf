@@ -6,6 +6,7 @@
         <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
         <ns0:prefLabel xml:lang="fr">Humour</ns0:prefLabel>
         <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:definition xml:lang="fr">Un art qui utilise le rire et la comédie pour divertir.</ns0:definition>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Absurde</ns0:prefLabel>
@@ -19,6 +20,7 @@
             <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
             <ns0:prefLabel xml:lang="fr">Musique</ns0:prefLabel>
             <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+            <ns0:definition xml:lang="fr">Un art qui utilise le son et le rythme pour créer des compositions musicales.</ns0:definition>
           </ns0:Concept>
         </ns0:broader>
         <ns0:prefLabel xml:lang="fr">Jazz</ns0:prefLabel>
@@ -34,6 +36,7 @@
         <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
         <ns0:prefLabel xml:lang="fr">Cirque</ns0:prefLabel>
         <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:definition xml:lang="fr">Un spectacle qui combine des performances acrobatiques, de jonglerie, d'équilibre et d'autres arts du cirque.</ns0:definition>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Acrobatie</ns0:prefLabel>
@@ -52,6 +55,7 @@
             <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
             <ns0:prefLabel xml:lang="fr">Danse</ns0:prefLabel>
             <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+            <ns0:definition xml:lang="fr">Un art du mouvement du corps, souvent en rythme avec la musique.</ns0:definition>
           </ns0:Concept>
         </ns0:broader>
         <ns0:prefLabel xml:lang="fr">Caribéenne et latino-américaine</ns0:prefLabel>
@@ -67,6 +71,7 @@
         <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
         <ns0:prefLabel xml:lang="fr">Théâtre</ns0:prefLabel>
         <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:definition xml:lang="fr">Un art de la représentation dramatique, souvent sur scène, impliquant des acteurs et un public.</ns0:definition>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Anticipation</ns0:prefLabel>
@@ -247,6 +252,7 @@
         <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
         <ns0:prefLabel xml:lang="fr">Variété</ns0:prefLabel>
         <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:definition xml:lang="fr">Un spectacle qui combine plusieurs formes de divertissement, y compris la musique, la danse et le théâtre.</ns0:definition>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Cabaret</ns0:prefLabel>
@@ -334,6 +340,7 @@
     <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
     <ns0:prefLabel xml:lang="fr">Conférence</ns0:prefLabel>
     <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+    <ns0:definition xml:lang="fr">Une présentation orale destinée à transmettre des connaissances ou des idées.</ns0:definition>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#ContactImprovisation">
     <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#ContemporaineEtModerne"/>
@@ -346,6 +353,7 @@
         <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
         <ns0:prefLabel xml:lang="fr">Art de la parole</ns0:prefLabel>
         <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie"/>
+        <ns0:definition xml:lang="fr">Un art qui utilise la parole et le langage pour communiquer des idées, des émotions ou des histoires.</ns0:definition>
       </ns0:Concept>
     </ns0:broader>
     <ns0:prefLabel xml:lang="fr">Conte</ns0:prefLabel>
@@ -1131,7 +1139,7 @@
   </ns0:Concept>
   <ns0:ConceptScheme rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#">
     <ns0:prefLabel xml:lang="fr">Disciplines artistiques</ns0:prefLabel>
-    <ns1:versionInfo>3.1.0</ns1:versionInfo>
+    <ns1:versionInfo>3.1.1</ns1:versionInfo>
     <ns2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-11-15</ns2:created>
     <ns2:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-13</ns2:modified>
     <ns2:description xml:lang="fr">Taxonomie de Scène Pro pour la classification des disciplines artistiques.</ns2:description>
@@ -1141,11 +1149,11 @@
     <ns4:preferredNamespaceUri rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#"/>
     <ns4:example rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Cirque"/>
     <ns5:wasGeneratedBy>
-      <ns5:Activity rdf:nodeID="g458200">
+      <ns5:Activity rdf:nodeID="g458180">
         <ns5:agent rdf:resource="http://www.wikidata.org/entity/Q111159860"/>
         <ns5:endedAtTime>2025-04-13T00:00:00Z</ns5:endedAtTime>
         <ns5:used rdf:resource="https://docs.google.com/spreadsheets/d/1Qw6YF3GE5w5VgItOrMkRumgx_oqgXujO8UsQlv0vhMk"/>
-        <ns2:description>This version 3.1.0 adds the concept 'spt:Conférence' to the taxonomy.</ns2:description>
+        <ns2:description>This version 3.1.1 adds descriptions to the top level concepts.</ns2:description>
       </ns5:Activity>
     </ns5:wasGeneratedBy>
   </ns0:ConceptScheme>

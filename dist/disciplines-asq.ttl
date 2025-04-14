@@ -210,6 +210,7 @@
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Commedia dell' arte"@fr .
 
 <http://scenepro.ca/taxonomies/Disciplines-asq#Conférence> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#definition> "Une présentation orale destinée à transmettre des connaissances ou des idées."@fr;
   <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Conférence"@fr;
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie> .
@@ -992,11 +993,11 @@
   <http://purl.org/vocab/vann/example> <http://scenepro.ca/taxonomies/Disciplines-asq#Cirque>;
   <http://purl.org/vocab/vann/preferredNamespacePrefix> "spt";
   <http://purl.org/vocab/vann/preferredNamespaceUri> <http://scenepro.ca/taxonomies/Disciplines-asq#>;
-  <http://www.w3.org/2002/07/owl#versionInfo> "3.1.0";
+  <http://www.w3.org/2002/07/owl#versionInfo> "3.1.1";
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Disciplines artistiques"@fr;
   <http://www.w3.org/ns/prov#wasGeneratedBy> [
     a <http://www.w3.org/ns/prov#Activity>;
-    <http://purl.org/dc/terms/description> "This version 3.1.0 adds the concept 'spt:Conférence' to the taxonomy.";
+    <http://purl.org/dc/terms/description> "This version 3.1.1 adds descriptions to the top level concepts.";
     <http://www.w3.org/ns/prov#agent> <http://www.wikidata.org/entity/Q111159860>;
     <http://www.w3.org/ns/prov#endedAtTime> "2025-04-13T00:00:00Z";
     <http://www.w3.org/ns/prov#used> <https://docs.google.com/spreadsheets/d/1Qw6YF3GE5w5VgItOrMkRumgx_oqgXujO8UsQlv0vhMk>
@@ -1029,6 +1030,7 @@
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Spirituelle"@fr .
 
 <http://scenepro.ca/taxonomies/Disciplines-asq#ArtDeLaParole> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#definition> "Un art qui utilise la parole et le langage pour communiquer des idées, des émotions ou des histoires."@fr;
   <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Art de la parole"@fr;
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie> .
@@ -1054,6 +1056,7 @@
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Moyen-Orient"@fr .
 
 <http://scenepro.ca/taxonomies/Disciplines-asq#Variete> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#definition> "Un spectacle qui combine plusieurs formes de divertissement, y compris la musique, la danse et le théâtre."@fr;
   <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Variété"@fr;
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie> .
@@ -1064,6 +1067,7 @@
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Caribéenne et latino-américaine"@fr .
 
 <http://scenepro.ca/taxonomies/Disciplines-asq#Cirque> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#definition> "Un spectacle qui combine des performances acrobatiques, de jonglerie, d'équilibre et d'autres arts du cirque."@fr;
   <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Cirque"@fr;
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie> .
@@ -1089,11 +1093,13 @@
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Urbaine"@fr .
 
 <http://scenepro.ca/taxonomies/Disciplines-asq#Humour> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#definition> "Un art qui utilise le rire et la comédie pour divertir."@fr;
   <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Humour"@fr;
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie> .
 
 <http://scenepro.ca/taxonomies/Disciplines-asq#Danse> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#definition> "Un art du mouvement du corps, souvent en rythme avec la musique."@fr;
   <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Danse"@fr;
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie> .
@@ -1114,11 +1120,13 @@
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Jazz"@fr .
 
 <http://scenepro.ca/taxonomies/Disciplines-asq#Theatre> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#definition> "Un art de la représentation dramatique, souvent sur scène, impliquant des acteurs et un public."@fr;
   <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Théâtre"@fr;
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie> .
 
 <http://scenepro.ca/taxonomies/Disciplines-asq#Musique> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#definition> "Un art qui utilise le son et le rythme pour créer des compositions musicales."@fr;
   <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Musique"@fr;
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://scenepro.ca/taxonomies/Disciplines-asq#SceneProTaxonomie> .
