@@ -3,7 +3,35 @@
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Absurde">
     <ns0:broader>
       <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Humour">
-        <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
+        <ns0:topConceptOf>
+          <ns0:ConceptScheme rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme">
+            <ns0:prefLabel xml:lang="fr">Disciplines artistiques</ns0:prefLabel>
+            <ns1:versionInfo>3.1.1</ns1:versionInfo>
+            <ns2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-11-15</ns2:created>
+            <ns2:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-13</ns2:modified>
+            <ns2:description xml:lang="fr">Taxonomie de Scène Pro pour la classification des disciplines artistiques.</ns2:description>
+            <ns3:homepage rdf:resource="https://github.com/culturecreates/disciplines-asq"/>
+            <ns4:changes rdf:resource="https://github.com/culturecreates/disciplines-asq/commits/master/src/disciplines-asq.ttl"/>
+            <ns4:preferredNamespacePrefix>spt</ns4:preferredNamespacePrefix>
+            <ns4:preferredNamespaceUri rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#"/>
+            <ns4:example>
+              <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Cirque">
+                <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
+                <ns0:prefLabel xml:lang="fr">Cirque</ns0:prefLabel>
+                <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
+                <ns0:definition xml:lang="fr">Un spectacle qui combine des performances acrobatiques, de jonglerie, d'équilibre et d'autres arts du cirque.</ns0:definition>
+              </ns0:Concept>
+            </ns4:example>
+            <ns5:wasGeneratedBy>
+              <ns5:Activity rdf:nodeID="g458200">
+                <ns5:agent rdf:resource="http://www.wikidata.org/entity/Q111159860"/>
+                <ns5:endedAtTime>2025-04-13T00:00:00Z</ns5:endedAtTime>
+                <ns5:used rdf:resource="https://docs.google.com/spreadsheets/d/1Qw6YF3GE5w5VgItOrMkRumgx_oqgXujO8UsQlv0vhMk"/>
+                <ns2:description>This version 3.1.1 adds descriptions to the top level concepts.</ns2:description>
+              </ns5:Activity>
+            </ns5:wasGeneratedBy>
+          </ns0:ConceptScheme>
+        </ns0:topConceptOf>
         <ns0:prefLabel xml:lang="fr">Humour</ns0:prefLabel>
         <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
         <ns0:definition xml:lang="fr">Un art qui utilise le rire et la comédie pour divertir.</ns0:definition>
@@ -31,14 +59,7 @@
     <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
   <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Acrobatie">
-    <ns0:broader>
-      <ns0:Concept rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#Cirque">
-        <ns0:topConceptOf rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
-        <ns0:prefLabel xml:lang="fr">Cirque</ns0:prefLabel>
-        <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
-        <ns0:definition xml:lang="fr">Un spectacle qui combine des performances acrobatiques, de jonglerie, d'équilibre et d'autres arts du cirque.</ns0:definition>
-      </ns0:Concept>
-    </ns0:broader>
+    <ns0:broader rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Cirque"/>
     <ns0:prefLabel xml:lang="fr">Acrobatie</ns0:prefLabel>
     <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
@@ -1137,24 +1158,4 @@
     <ns0:prefLabel xml:lang="fr">Western</ns0:prefLabel>
     <ns0:inScheme rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Scheme"/>
   </ns0:Concept>
-  <ns0:ConceptScheme rdf:about="http://scenepro.ca/taxonomies/Disciplines-asq#">
-    <ns0:prefLabel xml:lang="fr">Disciplines artistiques</ns0:prefLabel>
-    <ns1:versionInfo>3.1.1</ns1:versionInfo>
-    <ns2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-11-15</ns2:created>
-    <ns2:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-13</ns2:modified>
-    <ns2:description xml:lang="fr">Taxonomie de Scène Pro pour la classification des disciplines artistiques.</ns2:description>
-    <ns3:homepage rdf:resource="https://github.com/culturecreates/disciplines-asq"/>
-    <ns4:changes rdf:resource="https://github.com/culturecreates/disciplines-asq/commits/master/src/disciplines-asq.ttl"/>
-    <ns4:preferredNamespacePrefix>spt</ns4:preferredNamespacePrefix>
-    <ns4:preferredNamespaceUri rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#"/>
-    <ns4:example rdf:resource="http://scenepro.ca/taxonomies/Disciplines-asq#Cirque"/>
-    <ns5:wasGeneratedBy>
-      <ns5:Activity rdf:nodeID="g458180">
-        <ns5:agent rdf:resource="http://www.wikidata.org/entity/Q111159860"/>
-        <ns5:endedAtTime>2025-04-13T00:00:00Z</ns5:endedAtTime>
-        <ns5:used rdf:resource="https://docs.google.com/spreadsheets/d/1Qw6YF3GE5w5VgItOrMkRumgx_oqgXujO8UsQlv0vhMk"/>
-        <ns2:description>This version 3.1.1 adds descriptions to the top level concepts.</ns2:description>
-      </ns5:Activity>
-    </ns5:wasGeneratedBy>
-  </ns0:ConceptScheme>
 </rdf:RDF>

@@ -985,25 +985,6 @@
   <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/Disciplines-asq#Scheme>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Western"@fr .
 
-<http://scenepro.ca/taxonomies/Disciplines-asq#> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
-  <http://purl.org/dc/terms/created> "2022-11-15"^^<http://www.w3.org/2001/XMLSchema#date>;
-  <http://purl.org/dc/terms/description> "Taxonomie de Scène Pro pour la classification des disciplines artistiques."@fr;
-  <http://purl.org/dc/terms/modified> "2025-04-13"^^<http://www.w3.org/2001/XMLSchema#date>;
-  <http://purl.org/vocab/vann/changes> <https://github.com/culturecreates/disciplines-asq/commits/master/src/disciplines-asq.ttl>;
-  <http://purl.org/vocab/vann/example> <http://scenepro.ca/taxonomies/Disciplines-asq#Cirque>;
-  <http://purl.org/vocab/vann/preferredNamespacePrefix> "spt";
-  <http://purl.org/vocab/vann/preferredNamespaceUri> <http://scenepro.ca/taxonomies/Disciplines-asq#>;
-  <http://www.w3.org/2002/07/owl#versionInfo> "3.1.1";
-  <http://www.w3.org/2004/02/skos/core#prefLabel> "Disciplines artistiques"@fr;
-  <http://www.w3.org/ns/prov#wasGeneratedBy> [
-    a <http://www.w3.org/ns/prov#Activity>;
-    <http://purl.org/dc/terms/description> "This version 3.1.1 adds descriptions to the top level concepts.";
-    <http://www.w3.org/ns/prov#agent> <http://www.wikidata.org/entity/Q111159860>;
-    <http://www.w3.org/ns/prov#endedAtTime> "2025-04-13T00:00:00Z";
-    <http://www.w3.org/ns/prov#used> <https://docs.google.com/spreadsheets/d/1Qw6YF3GE5w5VgItOrMkRumgx_oqgXujO8UsQlv0vhMk>
-  ];
-  <http://xmlns.com/foaf/0.1/homepage> <https://github.com/culturecreates/disciplines-asq> .
-
 <http://scenepro.ca/taxonomies/Disciplines-asq#Ancienne> a <http://www.w3.org/2004/02/skos/core#Concept>;
   <http://www.w3.org/2004/02/skos/core#broader> <http://scenepro.ca/taxonomies/Disciplines-asq#Danse>;
   <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/Disciplines-asq#Scheme>;
@@ -1130,3 +1111,22 @@
   <http://www.w3.org/2004/02/skos/core#inScheme> <http://scenepro.ca/taxonomies/Disciplines-asq#Scheme>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Musique"@fr;
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://scenepro.ca/taxonomies/Disciplines-asq#Scheme> .
+
+<http://scenepro.ca/taxonomies/Disciplines-asq#Scheme> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+  <http://purl.org/dc/terms/created> "2022-11-15"^^<http://www.w3.org/2001/XMLSchema#date>;
+  <http://purl.org/dc/terms/description> "Taxonomie de Scène Pro pour la classification des disciplines artistiques."@fr;
+  <http://purl.org/dc/terms/modified> "2025-04-13"^^<http://www.w3.org/2001/XMLSchema#date>;
+  <http://purl.org/vocab/vann/changes> <https://github.com/culturecreates/disciplines-asq/commits/master/src/disciplines-asq.ttl>;
+  <http://purl.org/vocab/vann/example> <http://scenepro.ca/taxonomies/Disciplines-asq#Cirque>;
+  <http://purl.org/vocab/vann/preferredNamespacePrefix> "spt";
+  <http://purl.org/vocab/vann/preferredNamespaceUri> <http://scenepro.ca/taxonomies/Disciplines-asq#>;
+  <http://www.w3.org/2002/07/owl#versionInfo> "3.1.1";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Disciplines artistiques"@fr;
+  <http://www.w3.org/ns/prov#wasGeneratedBy> [
+    a <http://www.w3.org/ns/prov#Activity>;
+    <http://purl.org/dc/terms/description> "This version 3.1.1 adds descriptions to the top level concepts.";
+    <http://www.w3.org/ns/prov#agent> <http://www.wikidata.org/entity/Q111159860>;
+    <http://www.w3.org/ns/prov#endedAtTime> "2025-04-13T00:00:00Z";
+    <http://www.w3.org/ns/prov#used> <https://docs.google.com/spreadsheets/d/1Qw6YF3GE5w5VgItOrMkRumgx_oqgXujO8UsQlv0vhMk>
+  ];
+  <http://xmlns.com/foaf/0.1/homepage> <https://github.com/culturecreates/disciplines-asq> .
