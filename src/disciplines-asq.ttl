@@ -10,7 +10,7 @@
 
 spt: rdf:type  skos:ConceptScheme; 
   skos:prefLabel "Disciplines artistiques"@fr; 
-  owl:versionInfo "3.1.0";
+  owl:versionInfo "3.1.1";
   dct:created "2022-11-15"^^xsd:date ;
   dct:modified "2025-04-13"^^xsd:date ;
   dct:description "Taxonomie de Scène Pro pour la classification des disciplines artistiques."@fr ;
@@ -24,16 +24,29 @@ spt: rdf:type  skos:ConceptScheme;
     prov:agent <http://www.wikidata.org/entity/Q111159860> ;
     prov:endedAtTime "2025-04-13T00:00:00Z";
     prov:used <https://docs.google.com/spreadsheets/d/1Qw6YF3GE5w5VgItOrMkRumgx_oqgXujO8UsQlv0vhMk>;
-    dct:description "This version 3.1.0 adds the concept 'spt:Conférence' to the taxonomy." ;
+    dct:description "This version 3.1.1 adds descriptions to the top level concepts." ;
   ] .
-spt:Conférence rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Conférence"@fr ; skos:inScheme spt:SceneProTaxonomie.
-spt:Cirque rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Cirque"@fr ; skos:inScheme spt:SceneProTaxonomie. 
-spt:Musique rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Musique"@fr ; skos:inScheme spt:SceneProTaxonomie. 
-spt:Danse rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Danse"@fr ; skos:inScheme spt:SceneProTaxonomie. 
-spt:Theatre rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Théâtre"@fr ; skos:inScheme spt:SceneProTaxonomie. 
-spt:Humour rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Humour"@fr ; skos:inScheme spt:SceneProTaxonomie. 
-spt:Variete rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Variété"@fr ; skos:inScheme spt:SceneProTaxonomie. 
-spt:ArtDeLaParole rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Art de la parole"@fr ; skos:inScheme spt:SceneProTaxonomie. 
+spt:Conférence rdf:type skos:Concept; 
+  skos:topConceptOf spt:SceneProTaxonomie; 
+  skos:prefLabel "Conférence"@fr; 
+  skos:inScheme spt:SceneProTaxonomie; 
+  skos:definition "Une présentation orale destinée à transmettre des connaissances ou des idées."@fr .
+
+spt:Cirque rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Cirque"@fr ; skos:inScheme spt:SceneProTaxonomie; 
+  skos:definition "Un spectacle qui combine des performances acrobatiques, de jonglerie, d'équilibre et d'autres arts du cirque."@fr .
+
+spt:Musique rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Musique"@fr ; skos:inScheme spt:SceneProTaxonomie; 
+  skos:definition "Un art qui utilise le son et le rythme pour créer des compositions musicales."@fr .
+spt:Danse rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Danse"@fr ; skos:inScheme spt:SceneProTaxonomie; 
+  skos:definition "Un art du mouvement du corps, souvent en rythme avec la musique."@fr .
+spt:Theatre rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Théâtre"@fr ; skos:inScheme spt:SceneProTaxonomie; 
+  skos:definition "Un art de la représentation dramatique, souvent sur scène, impliquant des acteurs et un public."@fr . 
+spt:Humour rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Humour"@fr ; skos:inScheme spt:SceneProTaxonomie; 
+  skos:definition "Un art qui utilise le rire et la comédie pour divertir."@fr . 
+spt:Variete rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Variété"@fr ; skos:inScheme spt:SceneProTaxonomie; 
+  skos:definition "Un spectacle qui combine plusieurs formes de divertissement, y compris la musique, la danse et le théâtre."@fr . 
+spt:ArtDeLaParole rdf:type  skos:Concept; skos:topConceptOf spt:SceneProTaxonomie; skos:prefLabel "Art de la parole"@fr ; skos:inScheme spt:SceneProTaxonomie; 
+  skos:definition "Un art qui utilise la parole et le langage pour communiquer des idées, des émotions ou des histoires."@fr . 
 spt:Acrobatie rdf:type  skos:Concept; skos:broader spt:Cirque; skos:prefLabel "Acrobatie"@fr ; skos:inScheme spt:SceneProTaxonomie. 
 spt:Aerien rdf:type  skos:Concept; skos:broader spt:Cirque; skos:prefLabel "Aérien"@fr ; skos:inScheme spt:SceneProTaxonomie. 
 spt:ArtClownesque rdf:type  skos:Concept; skos:broader spt:Cirque; skos:prefLabel "Art clownesque"@fr ; skos:inScheme spt:SceneProTaxonomie. 
